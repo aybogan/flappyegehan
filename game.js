@@ -307,18 +307,18 @@
 
  };
 
-gnd.sprite.src="img/ground.png";
-bg.sprite.src="img/BG.png";
-pipe.top.sprite.src="img/toppipe.png";
-pipe.bot.sprite.src="img/botpipe.png";
-UI.gameOver.sprite.src="img/go.png";
-UI.getReady.sprite.src="img/getready.png";
-UI.tap[0].sprite.src="img/tap/t0.png";
-UI.tap[1].sprite.src="img/tap/t1.png";
-bird.animations[0].sprite.src="img/bird/b0.png";
-bird.animations[1].sprite.src="img/bird/b1.png";
-bird.animations[2].sprite.src="img/bird/b2.png";
-bird.animations[3].sprite.src="img/bird/b0.png";
+gnd.sprite.src="ground.png";
+bg.sprite.src="BG.png";
+pipe.top.sprite.src="toppipe.png";
+pipe.bot.sprite.src="botpipe.png";
+UI.gameOver.sprite.src="go.png";
+UI.getReady.sprite.src="getready.png";
+UI.tap[0].sprite.src="t0.png";
+UI.tap[1].sprite.src="t1.png";
+bird.animations[0].sprite.src="b0.png";
+bird.animations[1].sprite.src="b1.png";
+bird.animations[2].sprite.src="b2.png";
+bird.animations[3].sprite.src="b0.png";
 SFX.start.src = "sfx/start.wav"
 SFX.flap.src = "sfx/flap.wav"
 SFX.score.src = "sfx/score.wav"
